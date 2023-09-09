@@ -1,5 +1,0 @@
-{{#user}}
-Name: Varun S P
-Skills: HTML, CSS, JS, Next.js, React.js and many more frameworks and libraries
-Email: spvarun47@gmail@gmail.com
-{{/user}}
